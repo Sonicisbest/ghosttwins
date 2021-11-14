@@ -1,3 +1,8 @@
-operastage_old
-operastage_melt
-operastage
+stage
+halloween
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
